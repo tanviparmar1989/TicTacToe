@@ -14,16 +14,6 @@ public class TicTacToeCLI {
         char[][] ticTacToeArray = {{'1', '2', '3'}, {'4', '5', '6'}, {'7', '8', '9'}};
         ticTacToe.displayBoard(ticTacToeArray);
 
-
-//        System.out.println("Player1 - Please enter your name");
-//        String player1Name = in.nextLine();
-
-
-//        System.out.println("Player2 - Please enter your name");
-//        String player2Name = in.nextLine();
-        //give player1 = x, player2 =0
-
-
         // keep asking till game is not ended
         boolean gameEnded = false;
 
